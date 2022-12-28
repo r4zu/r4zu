@@ -8,8 +8,8 @@ I've been learning to code for 4 years, after switching careers. | started with 
 
 * 🌍  I'm based in Loja City
 * ✉️  You can contact me at [razuordonez@gmail.com](mailto:razuordonez@gmail.com)
-* 🚀  I'm currently working on [PuntoPymes](http://sofpymes.com/)
-* 🧠  I'm learning NestJS, Kubernetes, AWS and Go
+* 🚀  I'm currently working as Freelancer
+* 🧠  I'm learning Data Engineering
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
