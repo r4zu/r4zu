@@ -9,7 +9,7 @@ I've been learning to code for 4 years, after switching careers. | started with 
 * 🌍  I'm based in Loja City
 * ✉️  You can contact me at [razuordonez@gmail.com](mailto:razuordonez@gmail.com)
 * 🚀  I'm currently working as Freelancer
-* 🧠  I'm learning Data Engineering
+* 🧠  I'm learning Next.js, Data Science, AWS, and Kubernetes
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
