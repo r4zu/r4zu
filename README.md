@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I've been learning to code for 4 years, after switching careers. | started with Python, but now I have really found a passion with TypeScript.
+I've been learning to code for over 5 years self-taught, after switching careers. I started with Python, but now I have really found a passion with TypeScript.
 
 * 🌍  I'm based in Loja City
 * ✉️  You can contact me at [razuordonez@gmail.com](mailto:razuordonez@gmail.com)
 * 🚀  I'm currently working as Freelancer
-* 🧠  I'm learning Next.js, Data Science, AWS, and Kubernetes
+* 🧠  I'm learning TDD, Microservices, and React Native
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
