@@ -11,7 +11,7 @@ I've been learning to code for over 5 years self-taught, after switching careers
 * 🚀  I'm currently working as Freelancer
 * 🧠  I'm learning Microservices, React Native, and DevOps
 * 🤝  I'm open to collaborating on Projects
-* 🌎  [My portfolio](https://josue-monk.netlify.app/){:target="_blank"}
+* 🌎  <a href="[http://example.com/](https://josue-monk.netlify.app/)" target="_blank">My portfolio</a>
 
 ### Languages
 
