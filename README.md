@@ -9,8 +9,9 @@ I've been learning to code for over 5 years self-taught, after switching careers
 * 🌍  I'm based in Loja City
 * ✉️  You can contact me at [razuordonez@gmail.com](mailto:razuordonez@gmail.com)
 * 🚀  I'm currently working as Freelancer
-* 🧠  I'm learning Microservices, and DevOps
+* 🧠  I'm learning Microservices, React Native, and DevOps
 * 🤝  I'm open to collaborating on Projects
+* 🌎  My [portfolio](https://josue-monk.netlify.app/)
 
 ### Languages
 
