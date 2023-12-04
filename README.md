@@ -6,7 +6,7 @@ Software Developer
 
 I've been learning to code for over 5 years self-taught, after switching careers. I started with Python, but now I have really found a passion with TypeScript.
 
-*   🌍  I'm based in Loja
+*   🌍  I'm based in Loxa
 *   ✉️  You can contact me at [razuordonez@gmail.com](mailto:razuordonez@gmail.com)
 *   🧠  I'm learning DevOps, iOS, Flutter, and GOlang.
 *   🤝  I'm open to collaborating on Projects, Frameworks, and APIs.
