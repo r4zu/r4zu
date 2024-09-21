@@ -8,7 +8,7 @@ I've been learning to code for over 5 years self-taught, after switching careers
 
 *   🌍  I'm based in Loxa
 *   ✉️  You can contact me at [razuordonez@gmail.com](mailto:razuordonez@gmail.com)
-*   🧠  I'm learning DevOps, iOS, Flutter, and GOlang.
+*   🧠  I'm learning Rust.
 *   🤝  I'm open to collaborating on Projects, Frameworks, and APIs.
 
 ### Languages
